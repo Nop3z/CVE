@@ -1,3 +1,5 @@
+CVE-2024-42756
+
 ## Command injection exists on the Diagnostics page of web
 ## ![1721830818130.png](https://cdn.nlark.com/yuque/0/2024/png/43672949/1721830823860-f5b57545-c9d4-455a-9471-c041145deb90.png#averageHue=%23fbfafa&clientId=u2f508ae5-ad4e-4&from=paste&height=667&id=u6ad3a6b3&originHeight=817&originWidth=1959&originalType=binary&ratio=1.2244897959183674&rotation=0&showTitle=false&size=178745&status=done&style=none&taskId=u2dc9df19-997d-4ab1-8f0f-59567da8a1d&title=&width=1599.85)Parameters discovered by capturing packets are passed as c4_IPAddr
 ![1721830893722.png](https://cdn.nlark.com/yuque/0/2024/png/43672949/1721830898585-93b51d16-5c9b-43cd-8c62-e6760b1bfc30.png#averageHue=%23f6f5f4&clientId=u2f508ae5-ad4e-4&from=paste&height=481&id=u9a9dc098&originHeight=589&originWidth=1511&originalType=binary&ratio=1.2244897959183674&rotation=0&showTitle=false&size=180889&status=done&style=none&taskId=u191977f1-3747-4a61-bd28-5b554321602&title=&width=1233.9833333333333)
